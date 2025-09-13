@@ -11,8 +11,7 @@ class ChatController extends GetxController {
   final ScrollController scrollC = ScrollController();
   final RxList<Map<String, String>> list = <Map<String, String>>[].obs; // Explicitly typed RxList
   static const apiKey = String.fromEnvironment('GROQ_API_KEY');
-
-  final String apiUrl = "https://api.groq.com/openai/v1/chat/completions";
+  final String apiUrl = "GROQ_API_KEY";
 
   @override
   void onInit() {
