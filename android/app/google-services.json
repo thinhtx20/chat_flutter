@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "700630219048",
+    "project_id": "loginfiebase-99835",
+    "storage_bucket": "loginfiebase-99835.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700630219048:android:6ae4c145cfe645624ff81d",
+        "android_client_info": {
+          "package_name": "com.example.chat_bot_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700630219048-52opf60npgdkar9bmdbsvsg6d805qnav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8KYcKZ2QlpojoItIWD55sODmDR9UAfu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700630219048-52opf60npgdkar9bmdbsvsg6d805qnav.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700630219048-8hr0v3kv1lmik49uavvieo6a76t8bi42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatBotFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
