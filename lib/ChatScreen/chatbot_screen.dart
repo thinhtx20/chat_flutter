@@ -12,7 +12,6 @@ class ChatController extends GetxController {
   final RxList<Map<String, String>> list = <Map<String, String>>[].obs; // Explicitly typed RxList
   final String apiKey = "";
   final String apiUrl = "https://api.groq.com/openai/v1/chat/completions";
-//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
   @override
   void onInit() {
     super.onInit();
